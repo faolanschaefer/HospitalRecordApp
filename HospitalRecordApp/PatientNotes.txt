@@ -1,0 +1,2 @@
+0|test 1|2023-01-30 12:00:00 AM|BP 54/55 vitals work;newlines work RR: 87888 big values still map to vitals|cold;weak;ugly
+1|another test :)|1940-01-02 12:00:00 AM|vitals T 900BP: 90/43|very old;dying
